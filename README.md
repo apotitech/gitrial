@@ -1,1 +1,3 @@
-# gitrial
+# maven-project
+
+Simple Maven Project
