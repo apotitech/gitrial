@@ -7,4 +7,4 @@
 <h1> Welcome DevOps World !! You are great  </h1>
 <h1> You are Blessed indeed!!He who pulled you Up Loves You!!!</h1>
 
-<h2>God is the Master of my life. </h2>
+<h2>God is the Master of my life. Oh Yes He is!!! </h2>
